@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560730643 source:c:\users\gvega\desktop\portfolio\c examples\perimeter and area\main.c
+	<stdio.h>
+	<stdlib.h>
+
